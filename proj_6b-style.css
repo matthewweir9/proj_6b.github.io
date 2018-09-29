@@ -90,7 +90,7 @@ section.container .row {
   justify-content: center;
 }
 
-.jumbotron, .jumbotron-career {
+.jumbotron .jumbotron-career {
   display: flex;
   align-items: center;
   height: 350px;
@@ -106,7 +106,7 @@ section.container .row {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
 }
 
-.jumbotron, .jumbotron-career h2 {
+.jumbotron .jumbotron-career h2 {
   background-color: #FFFFFF;
   display: inline-block;
   color: #F06529;
@@ -115,7 +115,7 @@ section.container .row {
   border-radius: 5px;
 }
 
-.jumbotron, .jumbotron-career h3 {
+.jumbotron .jumbotron-career h3 {
   color: #FFFFFF;
   font-weight: bold;
 }
