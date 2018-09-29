@@ -90,25 +90,23 @@ section.container .row {
   justify-content: center;
 }
 
-.jumbotron {
+.jumbotron, jumbotron-career {
   display: flex;
   align-items: center;
   height: 350px;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
   background-size: cover;
   background-position: center;
 }
 
-.jumbotron-career {
-  display: flex;
-  align-items: center;
-  height: 350px;
+jumbotron {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
-.jumbotron h2 {
+jumbotron-career {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
+}
+
+.jumbotron, jombotron-career h2 {
   background-color: #FFFFFF;
   display: inline-block;
   color: #F06529;
@@ -117,7 +115,7 @@ section.container .row {
   border-radius: 5px;
 }
 
-.jumbotron h3 {
+.jumbotron, jumbotron-career h3 {
   color: #FFFFFF;
   font-weight: bold;
 }
