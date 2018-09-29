@@ -99,6 +99,15 @@ section.container .row {
   background-position: center;
 }
 
+.jumbotron-career {
+  display: flex;
+  align-items: center;
+  height: 350px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 .jumbotron h2 {
   background-color: #FFFFFF;
   display: inline-block;
