@@ -106,7 +106,7 @@ jumbotron-career {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
 }
 
-.jumbotron, jombotron-career h2 {
+.jumbotron, jumbotron-career h2 {
   background-color: #FFFFFF;
   display: inline-block;
   color: #F06529;
