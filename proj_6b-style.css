@@ -106,11 +106,23 @@ section.container .row {
   background-position: center;
 }
 
+.jumbotron-blog {
+  display: flex;
+  align-items: center;
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+}
+
 .jumbotron {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
 }
 
 .jumbotron-career {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
+}
+
+.jumbotron-blog {
   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
 }
 
@@ -132,12 +144,26 @@ section.container .row {
   border-radius: 5px;
 }
 
+.jumbotron-blog h2 {
+  background-color: #FFFFFF;
+  display: inline-block;
+  color: #F06529;
+  font-weight: 700;
+  padding: 10px 35px;
+  border-radius: 5px;
+}
+
 .jumbotron h3 {
   color: #FFFFFF;
   font-weight: bold;
 }
 
 .jumbotron-career h3 {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.jumbotron-blog h3 {
   color: #FFFFFF;
   font-weight: bold;
 }
