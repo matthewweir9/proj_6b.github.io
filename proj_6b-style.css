@@ -92,7 +92,7 @@ footer div {
 }
 
 .option-b {
-	background-image: url(images/blog-picture.jpg);
+	background-image: url(images/email-picture.jpg);
 }
 
 .option-text-index {
@@ -182,7 +182,7 @@ section.container .row {
 }
 
 .jumbotron-blog {
-  background-image: url("i");
+  background-image: url("images/email-picture.jpg");
 }
 
 .jumbotron-career h2 {
