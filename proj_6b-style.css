@@ -110,6 +110,8 @@ footer div {
   font-weight: 300;
   width: 100%;
   font-size: 1.25rem;
+  position: fixed;
+  bottom: 0;
 }
 
 /* Customizations of Bootstrap classes */
