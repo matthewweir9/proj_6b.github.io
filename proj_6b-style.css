@@ -104,6 +104,14 @@ footer div {
   color: #D6B47E;
 }
 
+#footer {
+  text-align: center;
+  color: #D6B47E;
+  font-weight: 300;
+  width: 100%;
+  font-size: 1.25rem;
+}
+
 /* Customizations of Bootstrap classes */
 
 header .row {
