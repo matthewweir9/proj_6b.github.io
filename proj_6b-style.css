@@ -70,6 +70,27 @@ footer div {
   color: #ffa500;
 }
 
+.supporting-container-index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 45px 0 0 0;
+}
+
+.supporting-container-index div {
+  background-size: cover;
+  min-width: 450px;
+  min-height: 345px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 30px;
+}
+
+.option {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/events.jpg);
+}
+
 /* Customizations of Bootstrap classes */
 
 header .row {
