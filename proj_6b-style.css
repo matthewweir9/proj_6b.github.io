@@ -91,7 +91,7 @@ footer div {
 	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/events.jpg);
 }
 
-.option h3 {
+.option > h3 {
   display: inline-block;
   font-weight: 800;
   background-color: #ffffff;
