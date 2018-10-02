@@ -87,7 +87,11 @@ footer div {
   margin: 0 30px;
 }
 
-.option {
+.option-a {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/events.jpg);
+}
+
+.option-b {
 	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/events.jpg);
 }
 
