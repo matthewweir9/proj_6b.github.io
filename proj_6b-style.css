@@ -153,11 +153,11 @@ section.container .row {
 }
 
 .jumbotron-career {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
+  background-image: url("images/future-picture.jpg");
 }
 
 .jumbotron-blog {
-  background-image: url("images/email-picture.jpg");
+  background-image: url("i");
 }
 
 .jumbotron h2 {
