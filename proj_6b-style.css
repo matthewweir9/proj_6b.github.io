@@ -157,7 +157,7 @@ section.container .row {
 }
 
 .jumbotron-blog {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/buildawebsite.jpg");
+  background-image: url("images/blog-picture.jpg");
 }
 
 .jumbotron h2 {
